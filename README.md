@@ -15,7 +15,7 @@ The LSTM model will use closing prices of stocks of the last 60 days as input an
 
 
 ## Naive Bayes Model (NLP) 
-The Naive Bayes model will classfy whether the sentence is positive or negative and output the confidence level. This model utilized several classifiers and used the summarized result as prediction. The model uses classified Financial news as training data. 
+The Naive Bayes model will classfy whether the input sentence is positive or negative and output the confidence level. This model utilized several classifiers and used the summarized result as prediction. The model uses classified Financial news as training data. 
 
 
 ## Sentiment analysis 
