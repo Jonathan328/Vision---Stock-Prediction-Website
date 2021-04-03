@@ -2,6 +2,7 @@
 
 **Vision is a stock prediction website that aims to utilize sentiment analysis and deep learning models to predict future stock prices.**
 
+
 This project is still under development.  
 
 
