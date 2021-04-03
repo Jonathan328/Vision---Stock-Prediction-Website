@@ -34,4 +34,6 @@ The website will be developed in Flask.
 2. https://keras.io/api/layers/recurrent_layers/lstm/
 3. http://www.cs.cornell.edu/courses/cs5740/2017sp/lectures/11-rnn.pdf
 4. http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf
+5. https://medium.com/@eiki1212/natural-language-processing-naive-bayes-classification-in-python-e934365cf40c
+6. https://towardsdatascience.com/algorithms-for-text-classification-part-1-naive-bayes-3ff1d116fdd8
 
