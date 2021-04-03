@@ -11,7 +11,7 @@ The website is mainly implemented with Python.
 
 
 ## Long short-term memory (LSTM) 
-The LSTM model will use closing prices of stocks of the last 60 days as input and output the predicted stock price of the next day. The current model uses the closing price of AAPL from 2012-01-03 to 2020-12-23 as training data. (Yahoo Finance) 
+The LSTM model will use closing prices of stocks of the last 60 days as input and output the predicted stock price of the next day. The current model uses the closing price of AAPL from 2012-01-03 to 2020-01-31 as training data. (Yahoo Finance) 
 
 
 
